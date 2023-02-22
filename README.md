@@ -4,4 +4,4 @@ Form Validation using javascript
 
 ![form-dogrulama](Demo.png)
 
-### [🚀 Visit Here](https://yenilikci.github.io/JavaScript-Form-Validator/ "🚀 Visit Here")
+### [🚀 Visit Here](https://dipmandal353.github.io/Form-validation-using-js/ "🚀 Visit Here")
