@@ -1,0 +1,16 @@
+.bg {
+    background-image: url(picture.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.card-header  {
+            font-size: 22px;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            color: black;
+}
